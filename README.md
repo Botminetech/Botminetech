@@ -18,38 +18,69 @@
 <h3 align="center">
 
 
-<h1 align="center">Hi ðŸ‘‹, I'm NEXIO_O7</h1>
+
+<h1 align="center">Hi ðŸ‘‹, I'm <span style="color:#00ffff">@Botminetech</span></h1>
+<p align="center">
+  ðŸš€ Passionate developer | ðŸ’¡ Always curious | ðŸŽ¯ Focused on building impactful tech
+</p>
+
+---
 
 ## ðŸŒ± What I'm Learning
-- ðŸ’» Exploring **TypeScript and GraphQL**
-- â˜ï¸ Deep diving into **DevOps and cloud deployment strategies**
+- ðŸ” Exploring **TypeScript** & **GraphQL**
+- â˜ï¸ Deep diving into **DevOps** & **Cloud Deployment Strategies**
+- ðŸ› ï¸ Sharpening skills in backend systems and automation
 
 ---
 
 ## âœ¨ Projects I'm Proud Of
-- [**Project Name 1**](#): Short description of what it does.
-- [**Project Name 2**](#): Highlight unique features or technologies used.
+- ðŸ”§ [**Project Name 1**](#): Short description of what it does.
+- ðŸŒ [**Project Name 2**](#): Highlights unique features or technologies used.
 
 ---
 
-## ðŸ› ï¸ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Botminetech&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botminetech&layout=compact&theme=tokyonight" />
+## ðŸ“¬ Connect With Me
+<p align="left">
+  <a href="https://instagram.com/Botminetech" target="_blank">ðŸ“¸ Instagram</a><br>
+  <a href="https://linkedin.com/in/Botminetech" target="_blank">ðŸ’¼ LinkedIn</a><br>
+  <a href="https://nexio07.dev" target="_blank">ðŸŒ Portfolio</a>
 </p>
 
 ---
 
-## ðŸ“Š Live GitHub Metrics (Real-time)
+## ðŸ“ˆ GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Botminetech?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Botminetech?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Botminetech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Botminetech&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botminetech&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">ðŸŒŸ Created with â¤ï¸ by <strong>Botminetech</strong></p>
+## ðŸ“Š Live GitHub Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Botminetech?style=for-the-badge&logo=github&color=purple" alt="Stars">
+  <img src="https://img.shields.io/github/followers/Botminetech?style=for-the-badge&logo=github&color=blue" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Botminetech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
+
+## ðŸ’» Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+<p align="center">
+  âœ¨ Built with passion by <strong>@Botminetech</strong> ðŸš€
+</p>
