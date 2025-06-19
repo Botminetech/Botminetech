@@ -17,3 +17,46 @@
 
 <h3 align="center">
 
+
+<h1 align="center">Hi ðŸ‘‹, I'm NEXIO_O7</h1>
+
+## ðŸŒ± What I'm Learning
+- ðŸ’» Exploring **TypeScript and GraphQL**
+- â˜ï¸ Deep diving into **DevOps and cloud deployment strategies**
+
+---
+
+## âœ¨ Projects I'm Proud Of
+- [**Project Name 1**](#): Short description of what it does.
+- [**Project Name 2**](#): Highlight unique features or technologies used.
+
+---
+
+## ðŸ“¬ Connect With Me
+- ðŸ¦ Instagram: [@NEXIO_O7](https://instagram.com/NEXIO_O7)
+- ðŸ’¼ LinkedIn: [NEXIO_O7](https://linkedin.com/in/NEXIO_O7)
+- ðŸŒ Portfolio: [nexio07.dev](https://nexio07.dev)
+
+---
+
+## ðŸ› ï¸ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NEXIO-O7&show_icons=true&theme=tokyonight&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEXIO-O7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ðŸ“Š Live GitHub Metrics (Real-time)
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/NEXIO-O7?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/NEXIO-O7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NEXIO-O7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">ðŸŒŸ Created with â¤ï¸ by <strong>@NEXIO_O7</strong></p>
