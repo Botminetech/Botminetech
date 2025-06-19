@@ -45,11 +45,11 @@
 ## ðŸ“Š Live GitHub Metrics (Real-time)
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Botminrtech?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Botminetech?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Botminetech?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Botminetech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">ðŸŒŸ Created with â¤ï¸ by <strong>@NEXIO_O7</strong></p>
+<p align="center">ðŸŒŸ Created with â¤ï¸ by <strong>Botminetech</strong></p>
