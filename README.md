@@ -116,7 +116,53 @@
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ---
+
+## 🛡️ Profile Stats & Shields
+
+<p align="center">
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Botminetech&label=PROFILE+VIEWS&color=orange&style=for-the-badge" />
+
+<!-- FOLLOWERS -->
+<img src="https://img.shields.io/github/followers/Botminetech?label=Followers&style=for-the-badge&logo=github" />
+
+<!-- STARS RECEIVED -->
+<img src="https://img.shields.io/github/stars/Botminetech?label=Stars&style=for-the-badge" />
+
+<!-- REPOSITORIES COUNT -->
+<img src="https://img.shields.io/badge/Public%20Repos-🔥%20$(count)?style=for-the-badge&color=blue" />
+
+<!-- ORGANIZATION / OWNER BADGE -->
+<img src="https://img.shields.io/badge/OWNER-BotMineTech-orange?style=for-the-badge" />
+
+<!-- ACTIVE STATUS -->
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+
 </p>
+
+---
+
+## 💠 GitHub Summary Stats
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botminetech&theme=radical" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Botminetech&theme=radical"  width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Botminetech&theme=radical" width="45%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Botminetech&theme=radical" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Botminetech&theme=radical" width="45%"/>
+</p>
+
+---
+</p>
+
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=900&color=FF8000&lines=🔥+PROUD+TO+BE+SANATANI+🔥">
