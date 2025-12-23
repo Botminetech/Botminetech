@@ -1,155 +1,84 @@
-# 👋 Hi there, I'm Radhe 
+<!-- Banner -->
+<h1 align="center">👋 ɪ'ᴍ <b>ＲＡＤＨＥ</b> — 𝐁𝐨𝐭𝐌𝐢𝐧𝐞𝐓𝐞𝐜𝐡 ⚡</h1>
+<h3 align="center">🤖 AI • 🧠 Automation • 🚀 Open-Source • 🕶️ Hacker-Vibes</h3>
 
-### 🤖 AI Engineer • 🛠 Automation Architect • 🚀 Open Source Enthusiast
-
-> *"Transforming complexity into elegant automation solutions"*
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-2ea44f)]()
-[![Blog](https://img.shields.io/badge/%F0%9F%93%9D-Blog-blue)]()
-[![Twitter](https://img.shields.io/badge/%F0%9F%90%A6-Twitter-1DA1F2)]()
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC-LinkedIn-0077B5)]()
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7-Email-D14836)]()
-
-</div>
+<p align="center">
+<a href="https://github.com/Botminetech">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF1177&center=true&width=900&lines=Developer+%7C+Bot+Creator+%7C+Automation+Architect;Building+Powerful+AI+%26+Telegram+Bots;Turning+Ideas+Into+Reality+🚀">
+</a>
+</p>
 
 ---
 
-## 🚀 What I Do
-
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><strong>AI/ML</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><strong>Automation</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br><strong>DevOps</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><strong>Web Dev</strong></td>
-<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/><br><strong>Cloud</strong></td>
-</tr>
-</table>
+## 🧠 About Me
+- 🔥 Passionate Developer & Automation Architect  
+- ⚙️ Creating next-level Telegram + AI Bots  
+- 🌐 Founder of **BotMineTech**
+- 🧑‍💻 Always Learning • Always Building
+- 💬 DM Me on Telegram → **@KaRn_Xd**
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=radical&hide_border=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=alexdev&theme=radical&hide_border=true" width="48%"/>
-</div>
+## 🏆 Achievements
+✔️ Built 50+ Powerful Bots  
+✔️ 1M+ Users Impacted  
+✔️ Open-Source Contributor  
+✔️ Advanced Automation Systems  
 
 ---
 
 ## 🛠 Tech Stack
 
-```python
-class AlexDeveloper:
-    def __init__(self):
-        self.languages = ["Python", "JavaScript", "TypeScript", "Go", "Rust"]
-        self.frameworks = ["FastAPI", "React", "Next.js", "TensorFlow", "PyTorch"]
-        self.tools = ["Docker", "Kubernetes", "Git", "AWS", "GitHub Actions"]
-        self.databases = ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
-        self.specialties = ["AI Automation", "RPA", "MLOps", "Cloud Architecture"]
-
-    def current_focus(self):
-        return "Building intelligent automation systems with AI"
-
-    def contact(self):
-        return "📫 hello@alexdev.io | 🌐 alexdev.io"
-```
-
----
-
-## 🌟 Featured Projects
-
-| Project           | Description                     | ⭐ Stars  | 🍴 Forks | 🐛 Issues | 🔥 PRs |
-| ----------------- | ------------------------------- | -------- | -------- | --------- | ------ |
-| **🤖 BOTMINE**    | Next-gen automation framework   | **1.2k** | 320      | 12        | 45     |
-| **🧠 NeuroFlow**  | AI workflow automation platform | **850**  | 210      | 8         | 32     |
-| **⚡ AutoML-Pipe** | Automated ML pipeline system    | **620**  | 150      | 5         | 28     |
-
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-<img src="https://ghchart.rshah.org/alexdev" alt="GitHub Graph"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,js,ts,react,nextjs,mongodb,redis,postgres,github,docker,linux,aws,kubernetes" />
 </p>
 
 ---
 
-## 📝 Latest Blog Posts
-
-* Building AI-Powered Automation Systems in 2024
-* The Future of RPA with Machine Learning
-* Creating Scalable Automation Architectures
-* Open Source Automation: Lessons Learned
-
----
-
-## 🎯 Current Focus
-
-* 🔭 Working on: Enterprise-grade automation platform
-* 🌱 Learning: Advanced MLOps & distributed compute
-* 👯 Collaboration: Open-source AI projects
-* 🤔 Exploring: Quantum-AI possibilities
-* ⚡ Fun fact: I automated my coffee machine ☕🤖
-
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alexdev&theme=radical&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Botminetech&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botminetech&layout=compact&theme=radical&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Botminetech&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🔥 Featured Projects
 
-<table>
-<tr><td><b>💡 Innovation</b></td><td>Creative AI-powered automation</td></tr>
-<tr><td><b>🚀 Execution</b></td><td>Concept → Production systems</td></tr>
-<tr><td><b>🧠 Expertise</b></td><td>Deep AI & automation knowledge</td></tr>
-<tr><td><b>🌐 Community</b></td><td>Open-source contributor</td></tr>
-</table>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github)
-![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge\&logo=dev.to)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord)
-
-</div>
+| 🚀 Project  | ⭐ Star | 🔥 Description |
+|------------|--------|---------------|
+| **BOTMINE** | ⭐⭐⭐⭐⭐ | Next-gen AI + Automation Framework |
+| **TG-MASTER-BOT** | ⭐⭐⭐⭐ | Powerful Telegram Bot System |
+| **AUTOMATION-SUITE** | ⭐⭐⭐ | Full Automation Platform |
 
 ---
 
-## 💼 Sponsorship
+## 🧩 Contribution Graph
 
-<div align="center">
+<p align="center">
+<img src="https://ghchart.rshah.org/Botminetech" />
+</p>
 
-![Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge\&logo=GitHub-Sponsors)
-![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee)
-![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge\&logo=ko-fi)
+---
 
-</div>
+## 👑 Social & Contact
+<p align="center">
 
-<div align="center">
+<a href="https://t.me/KaRn_Xd"><img src="https://img.shields.io/badge/Telegram-%40KaRn__Xd-1DA1F2?style=for-the-badge&logo=telegram"></a>
+<a href="mailto:hello@botminetech.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/Botminetech"><img src="https://img.shields.io/badge/GitHub-BotMineTech-000000?style=for-the-badge&logo=github"></a>
 
-📬 Get in Touch • Automate the boring stuff 🚀
+</p>
 
-![Email](https://img.shields.io/badge/Email-hello@alexdev.io-red?style=for-the-badge\&logo=gmail)
-![ScheduleCall](https://img.shields.io/badge/Schedule_Call-4285F4?style=for-the-badge\&logo=google-calendar)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexdev\&color=blueviolet\&style=flat-square)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Botminetech&color=blueviolet&style=for-the-badge">
+</p>
 
-</div>
+<h3 align="center">🔥 ᴋᴇᴇᴘ ʙᴜɪʟᴅɪɴɢ. ᴋᴇᴇᴘ ᴄᴏɴǫᴜᴇʀɪɴɢ 🔥</h3>
