@@ -1,5 +1,6 @@
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=500&color=FF7B00&center=true&width=800&lines=🚩+JAI+SHREE+RAM+🚩;🚩+जय+श्री+राम+🚩;🚩+RAM+JI+KI+JAI+🚩" />
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=500&color=FF7B00&center=true&width=800&lines=🚩+ᴊᴀɪ+sʜʀᴇᴇ+ʀᴀᴍ+🚩;🚩+जय+श्री+राम+🚩;🚩+ʀᴀᴍ+ᴊɪ+ᴋɪ+ᴊᴀɪ+🚩" />
 </p>
 
 <h1 align="center">👋 ɪ'ᴍ <b>ＲＡＤＨＥ — BotMineTech ⚡</b></h1>
@@ -14,19 +15,19 @@
 ---
 
 ## 🧠 **ᴀʙᴏᴜᴛ ᴍᴇ**
-✔️ Passionate Developer & Automation Architect <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ Creating Next-Level Telegram + AI Bots <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ Founder of **BotMineTech** <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ Always Learning • Always Building <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ DM on Telegram → **@KaRn_Xd** <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
+✔️ Passionate Developer & Automation Architect <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ Creating Next-Level Telegram + AI Bots <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ Founder of **BotMineTech** <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ Always Learning • Always Building <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ DM on Telegram → **@KaRn_Xd** <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
 
 ---
 
 ## 🏆 **ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛꜱ**
-✔️ Built 50+ Powerful Bots <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ 1M+ Users Impacted <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ Open-Source Contributor <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
-✔️ Advanced Automation Systems <img src="https://i.imgur.com/SV6D3rL.gif" width="26">  
+✔️ Built 50+ Powerful Bots <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ 1M+ Users Impacted <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ Open-Source Contributor <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
+✔️ Advanced Automation Systems <img src="https://i.imgur.com/zgn0o2V.gif" width="26">  
 
 ---
 
@@ -52,9 +53,9 @@
 ## 🔥 **ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ**
 | 🚀 Project | ⭐ Star | 🔥 Description |
 |----------|--------|----------------|
-| **BOTMINE** | ⭐⭐⭐⭐⭐ | Next-Gen AI + Automation Framework <img src="https://i.imgur.com/SV6D3rL.gif" width="26"> |
-| **TG-MASTER-BOT** | ⭐⭐⭐⭐ | Powerful Telegram Bot System <img src="https://i.imgur.com/SV6D3rL.gif" width="26"> |
-| **AUTOMATION-SUITE** | ⭐⭐⭐ | Full Automation Platform <img src="https://i.imgur.com/SV6D3rL.gif" width="26"> |
+| **BOTMINE** | ⭐⭐⭐⭐⭐ | Next-Gen AI + Automation Framework <img src="https://i.imgur.com/zgn0o2V.gif" width="26"> |
+| **TG-MASTER-BOT** | ⭐⭐⭐⭐ | Powerful Telegram Bot System <img src="https://i.imgur.com/zgn0o2V.gif" width="26"> |
+| **AUTOMATION-SUITE** | ⭐⭐⭐ | Full Automation Platform <img src="https://i.imgur.com/zgn0o2V.gif" width="26"> |
 
 ---
 
@@ -71,5 +72,5 @@
 ---
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=900&color=FF8000&lines=🔥+PROUD+TO+BE+SANATANI+🔥">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&width=900&color=FF8000&lines=🔥+ᴘʀᴏᴜᴅ+ᴛᴏ+ʙᴇ+sᴀɴᴀᴛᴀɴɪ+🔥">
 </h1>
