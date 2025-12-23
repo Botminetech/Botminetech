@@ -6,13 +6,11 @@
 <h3 align="center">🤖 ᴀɪ • 🧠 ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ • 🚀 ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ • 🕶 ʜᴀᴄᴋᴇʀ ᴠɪʙᴇꜱ</h3>
 
 <p align="center">
-<a href="https://github.com/Botminetech">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF1177&center=true&width=900&lines=Turning+Ideas+Into+Reality;Powering+Telegram+%2B+AI+Bots;Building+Something+BIG+🔥">
-</a>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 🧠 **ᴀʙᴏᴜᴛ ᴍᴇ**
@@ -20,10 +18,10 @@
 ✔️ Creating Next-Level Telegram + AI Bots  
 ✔️ Founder of **BotMineTech**  
 ✔️ Always Learning • Always Building  
-✔️ DM on Telegram → **@KaRn_Xd**  
+✔️ DM on Telegram → **@KaRn_Xd**
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 🏆 **ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛꜱ**
@@ -33,7 +31,7 @@
 ✔️ Advanced Automation Systems  
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 🛠 **ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ**
@@ -42,7 +40,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 📊 **ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄꜱ**
@@ -56,10 +54,46 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
-## 🔥 **ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ**
+## 🧠 Profile Summary Card
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botminetech&theme=radical">
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## ⚡ Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Botminetech&theme=react-dark&hide_border=true">
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## 🐍 Snake Eating Contributions
+<p align="center">
+<img src="https://raw.githubusercontent.com/Botminetech/Botminetech/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## 🧾 Random Motivational Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+## 🔥 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 | 🚀 Project | ⭐ Star | 🔥 Description |
 |----------|--------|----------------|
 | **BOTMINE** | ⭐⭐⭐⭐⭐ | Next-Gen AI + Automation Framework |
@@ -67,7 +101,7 @@
 | **AUTOMATION-SUITE** | ⭐⭐⭐ | Full Automation Platform |
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 👑 **ꜱᴏᴄɪᴀʟ & ᴄᴏɴᴛᴀᴄᴛ**
@@ -77,11 +111,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Botminetech&color=FF1177&style=for-the-badge">
+<img src="https://profile-counter.glitch.me/Botminetech/count.svg">
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/I1pYHfW.gif" width="100%">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <h1 align="center">
