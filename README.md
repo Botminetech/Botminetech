@@ -90,18 +90,7 @@
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-## 🔥 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
-| 🚀 Project | ⭐ Star | 🔥 Description |
-|----------|--------|----------------|
-| **BOTMINE** | ⭐⭐⭐⭐⭐ | Next-Gen AI + Automation Framework |
-| **TG-MASTER-BOT** | ⭐⭐⭐⭐ | Powerful Telegram Bot System |
-| **AUTOMATION-SUITE** | ⭐⭐⭐ | Full Automation Platform |
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 👑 **ꜱᴏᴄɪᴀʟ & ᴄᴏɴᴛᴀᴄᴛ**
